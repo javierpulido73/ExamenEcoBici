@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_fondo_primario">#ffffff</color>
+    <color name="azul_sliding_on">#2b3087</color>
+    <color name="gris">#cecece</color>
+    <color name="gris2">#acacac</color>
+    <color name="blanco">#ffffff</color>
+    <color name="blanco_azulado">#b8eaf7</color>
+    <color name="blanco_azulado2">#d0f3fc</color>
+    <color name="blanco_azulado3">#E2F7FC</color>
+    <color name="gris_fondo_resultado">#f1f6f9</color>
+    <color name="gris_fondo_header">#e4edf4</color>
+    <color name="gris_fondo_terminal">#3c3c3c</color>
+
+    <color name="gris_1">#f5f7fb</color>
+    <color name="gris_2">#d0d0d0</color>
+    <color name="gris_3">#b1b1b1</color>
+    <color name="gris_4">#d0d0d0</color>
+    <color name="gris_5">#707070</color>
+    <color name="gris_6">#474747</color>
+
+    <color name="azul_versiones">#52c5e1</color>
+    <color name="azul_versiones_pressed">#42ABC7</color>
+    <color name="azul_versiones_pressed_on">#1fa5c7</color>
+    <color name="azul_claro1">#66cfe9</color>
+    <color name="azul_claro1_50">#5066cfe9</color>
+    <color name="azul_boton">#1470d1</color>
+
+    <color name="rojo_alert_dialog">#B53333</color>
+    <color name="mostaza_alert_dialog">#ffc857</color>
+    <color name="negro">#000000</color>
+    <color name="naranja_precio">#ff8126</color>
+    <color name="azul_onboarding_instrucciones">#338394</color>
+    <color name="azul_100">#c0c8e6</color>
+    <color name="azul_stroke">#6685bb</color>
+    <color name="rojo1">#ab0401</color>
+    <color name="rojo2">#dc3436</color>
+    <color name="fondo_footer">#e5e8f4</color>
+    <color name="blanco_legal">#e6e9f5</color>
+    <color name="azul_legal">#039be5</color>
+    <color name="fondo_azul_legal">#e1f5fe</color>
+    <color name="naranja_card_4">#e7792b</color>
+    <color name="azul_marin">#0a3d7e</color>
+    <color name="azul_marin_item">#00529b</color>
+    <color name="azul_barra_separadora">#67c3ef</color>
+    <color name="primary_enable_color">#e02b22</color>
+
+
+</resources>

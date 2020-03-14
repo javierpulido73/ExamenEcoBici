@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_filtros">
+        <item>EcoBici cercanas</item>
+        <item>EcoBici disponibles</item>
+        <item>Espacios disponibles</item>
+    </string-array>
+
+</resources>

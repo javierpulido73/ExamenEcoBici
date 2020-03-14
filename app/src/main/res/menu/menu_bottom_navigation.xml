@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_prueba"
+        android:icon="@drawable/ico_cycle_user2"
+        android:title="Bicis"/>
+    <item
+        android:id="@+id/item_ssh"
+        android:icon="@drawable/ic_ico_park"
+        android:title="Estaciones"/>
+</menu>
